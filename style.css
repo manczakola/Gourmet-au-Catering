@@ -35,7 +35,7 @@ nav {
 }
 
 .headerImage {
-    width: 90%;
+    width: 100%;
     max-height: 600px;
     object-fit: cover;
     opacity: .9;
@@ -44,7 +44,7 @@ nav {
 
 header {
     position: relative;
-    left: 5vw;
+
 
 }
 
